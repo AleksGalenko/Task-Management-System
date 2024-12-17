@@ -32,5 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
+.gitignore
 
 DB_user_password.txt
